@@ -16,7 +16,7 @@ console.log("I would make the course longer and possibly offer a day class.");
 // what you expected to learn in this course?
 
 console.log("Did you learn what you expected to learn in this course?");
-console.log("");
+console.log("I did learn and understand more than i previously did but I still have trouble, but thats more of a me problem.");
 
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
