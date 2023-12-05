@@ -24,4 +24,4 @@ console.log("I did learn and understand more than i previously did but I still h
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
-console.log("");
+console.log("I was fairly familiar with the concepts we learned, however, i learned about debugging and reversing arrays. ");
